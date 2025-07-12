@@ -1,0 +1,13 @@
+{
+  "name": "program1",
+  "version": "1.0.0",
+  "description": "A program to perform basic mathematical operations",
+  "type": "module",
+  "main": "program1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
